@@ -1,0 +1,40 @@
+body {
+   // background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(66, 3, 3);
+    text-align: center;
+  }
+
+  .task1 {
+    color: rgb(13, 66, 3);
+    background-color: lightblue;
+    text-decoration: overline;
+    font: 12pt/10pt sans-serif;
+  }
+
+  .task2 {
+    color: rgb(13, 66, 3);
+  }
+
+  .task3 {
+    color: rgb(13, 66, 3);
+  }
+
+  .task4 {
+    color: rgb(13, 66, 3);
+  }
+
+  .task5 {
+    color: rgb(13, 66, 3);
+  }
+
+  .task6 {
+    color: rgb(13, 66, 3);
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
