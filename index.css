@@ -9,29 +9,40 @@ body {
 
   .task1 {
     color: rgb(13, 66, 3);
-    background-color: lightblue;
     text-decoration: overline;
-    font: 12pt/10pt sans-serif;
+    font-family:courier;
   }
 
   .task2 {
-    color: rgb(13, 66, 3);
+    color: rgb(15, 38, 165);
+    text-decoration: underline;
+    font: 20pt/10pt sans-serif;
   }
 
   .task3 {
-    color: rgb(13, 66, 3);
+    color: rgb(221, 36, 196);
+    background-color: rgb(204, 226, 233);
+    font-style: italic;
   }
 
   .task4 {
-    color: rgb(13, 66, 3);
+    color: MediumSeaGreen;
+    background-color: lightgray;
+    font-style: bold;
+    font: 16pt/10pt sans-serif;
   }
 
   .task5 {
-    color: rgb(13, 66, 3);
+    color: Orange;
+    background-color: Gray;
+    text-transform: uppercase;
+    font: 12pt/10pt sans-serif;
   }
 
   .task6 {
-    color: rgb(13, 66, 3);
+    color: rgb(31, 226, 210);
+    text-decoration: line-through;
+    font: 20pt/20pt sans-serif;
   }
   
   p {
